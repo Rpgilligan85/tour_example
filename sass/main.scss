@@ -1,0 +1,19 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+img {
+    width: 100%; 
+}
+
+#replace, #startTour {
+    float: left;
+    width: 100%;
+    position: relative;
+    top: 10px;
+    height: 50px;
+    z-index: 10;
+    cursor: pointer;
+    display: block;
+} 
